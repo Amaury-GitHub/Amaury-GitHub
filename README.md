@@ -1,4 +1,16 @@
-## Hi there 👋
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Amaury</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amaury-GitHub&color=yellow" alt="Profile views" /> </p>
+
+**`Electrical Engineer`**
+
+Hello, I'm Amaury, nice to meet you!<br />
+
+I'm an electrical engineer originally from China. I specialize in PLC, robotics, and SCADA.<br />
+
+I'm really interested in programming!<br />
+
+This is just a little something I do for fun. If you find my code useful, please feel free to take it and use it. I would be really happy if you did!
+<br />
 
 <!--
 **Amaury-GitHub/Amaury-GitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
