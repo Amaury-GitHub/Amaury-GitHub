@@ -1,4 +1,4 @@
-<h1 align="left">Amaury's Github</h1>
+<h1 align="left">Amaury's GitHub</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amaury-GitHub&color=yellow" alt="Profile views" /> </p>
 
 **`Electrical Engineer`**
